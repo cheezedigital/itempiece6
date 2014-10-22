@@ -18,21 +18,17 @@ video { display: block; }
   border-color: rgba(255,255,255,0.25);
 }
 
-.header {
-  width: 100%;
-  position: relative;
-  height: 77px;
-}
-
 #child1 {
+  font-size: 19px;
   border-radius: 5px;
   margin-right: 10px;
-  color: orange;
+  color: #01d322;
   background-color: rgba(0,0,0,0);
 }
 #child2 {
+  font-size: 19px;
   border-radius: 5px;
   margin-right: 10px;
-  color: orange;
+  color: #01d322;
   background-color: rgba(0,0,0,0);
 }
