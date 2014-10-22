@@ -1,8 +1,5 @@
-@import 'video-js';
-
-#video-background {
-  position: absolute !important;
-  top: 0 !important;
+video {
+  position: fixed;
   right: 0;
   bottom: 0;
   min-width: 100%;
@@ -10,5 +7,8 @@
   width: auto;
   height: auto;
   z-index: -100;
+  background: url(sample.mp4) no-repeat;
   background-size: cover;
 }
+
+video { display: block; }
