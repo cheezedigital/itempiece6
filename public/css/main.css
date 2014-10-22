@@ -12,3 +12,27 @@ video {
 }
 
 video { display: block; }
+
+.navbar-inverse {
+  background-color: rgba(0,0,0,0);
+  border-color: rgba(255,255,255,0.25);
+}
+
+.header {
+  width: 100%;
+  position: relative;
+  height: 77px;
+}
+
+#child1 {
+  border-radius: 5px;
+  margin-right: 10px;
+  color: orange;
+  background-color: rgba(0,0,0,0);
+}
+#child2 {
+  border-radius: 5px;
+  margin-right: 10px;
+  color: orange;
+  background-color: rgba(0,0,0,0);
+}
