@@ -32,3 +32,12 @@ video { display: block; }
   color: white;
   background-color: rgba(0,0,0,0);
 }
+.section {
+  margin-top: 300px;
+}
+h1  {
+  font-family: "Lexia-Ad";
+  text-transform: uppercase;
+  font-size: 46px;
+  color: white;
+}
