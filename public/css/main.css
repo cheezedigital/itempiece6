@@ -33,6 +33,7 @@ video { display: block; }
 }*/
 .section {
   position: absolute;
+  top: 0;
 }
 h1 {
   text-transform: uppercase;
@@ -59,4 +60,7 @@ h3 {
 }
 .wrapper {
   position: relative;
+}
+.tools {
+  margin-top: 0;
 }
