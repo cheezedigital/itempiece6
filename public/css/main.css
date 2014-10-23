@@ -25,13 +25,13 @@ video { display: block; }
   color: white;
   background-color: rgba(0,0,0,0);
 }
-#child2 {
+/*#child2 {
   font-size: 19px;
   border-radius: 5px;
   margin-right: 10px;
   color: white;
   background-color: rgba(0,0,0,0);
-}
+}*/
 .section {
   margin-top: 300px;
 }
