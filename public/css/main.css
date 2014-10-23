@@ -32,7 +32,7 @@ video { display: block; }
   background-color: rgba(0,0,0,0);
 }*/
 .section {
-  margin-top: 100px;
+  position: absolute;
 }
 h1 {
   text-transform: uppercase;
@@ -56,4 +56,7 @@ h3 {
 }
 .row {
   padding: 15px;
+}
+.wrapper {
+  position: relative;
 }
