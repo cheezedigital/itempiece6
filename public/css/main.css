@@ -54,3 +54,6 @@ h3 {
   background-color: #303438;
   display: block;
 }
+.row {
+  padding: 15px;
+}
