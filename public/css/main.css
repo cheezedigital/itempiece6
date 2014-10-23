@@ -44,13 +44,13 @@ h3 {
   color: white;
 }
 .divider {
-  margin: 90px 0;
+  margin: 100px 0;
 }
 .footer {
-  padding: 80px;
-  background: #000408;
+  padding: 200px;
+  background-color: #000408;
 }
 .companies {
-  background-color: #000408;
+  background-color: #4f4f4f;
   display: block;
 }
