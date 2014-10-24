@@ -45,6 +45,7 @@ h1 {
 h3 {
   font-size: 30px;
   color: white;
+  text-align: center;
 }
 .divider {
   margin: 100px 0;
@@ -55,16 +56,24 @@ h3 {
 }
 .companies {
   background-color: #303438;
+  padding: 40px;
 }
 .row {
   padding: 15px;
 }
+.col-md-3 {
+  diplay: inline-block;
+}
 .wrapper {
   position: relative;
 }
-.tools {
-  margin-top: 0;
+.middle {
+  background-color: #000408;
 }
 
 .section h1 {margin:0;padding:0;}
 .section h3 {margin:0;padding:0;}
+
+.middle {
+  padding: 40px;
+}
