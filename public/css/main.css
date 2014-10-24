@@ -77,3 +77,9 @@ h3 {
 .middle {
   padding: 40px;
 }
+#atom {
+  margin-top: 28px;
+}
+#heroku {
+  margin-top: 10px;
+}
