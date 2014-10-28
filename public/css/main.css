@@ -31,6 +31,7 @@ video { display: block; }
   color: white;
   background-color: rgba(0,0,0,0);
 }
+
 .section {
   position: absolute;
   top: 0;
