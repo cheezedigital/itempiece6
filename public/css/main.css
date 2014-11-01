@@ -91,6 +91,7 @@ h3 {
 }
 .tools {
   font-weight: 200;
+  font-family: "PT Sans Narrow";
 }
 .navigation-wrapper {
   width: 100%;
@@ -99,4 +100,11 @@ h3 {
   font-family: "PT Sans Narrow";
   font-weight: 700;
   text-transform: uppercase;
+}
+.top-navigation {
+  display: inline;
+  float: left:
+  width: 75%;
+  margin-right: 0;
+  margin-left: 0;
 }
