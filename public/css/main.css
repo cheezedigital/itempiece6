@@ -13,8 +13,10 @@ video {
 video { display: block; }
 
 .navbar-inverse {
+  /*background-color: rgba(41,43,51,0.9);*/
   background-color: rgba(0,0,0,0);
-  border-color: rgba(255,255,255,0.25);
+  /*border-color: rgba(255,255,255,0.25);*/
+  border-color: #30d94c;
 }
 
 #child1 {
@@ -47,19 +49,21 @@ h1 {
   font-weight: 300;
   text-transform: uppercase;
   font-size: 46px;
-  color: white;
+  /*color: white;*/
+  color: #30d94c;
 }
 h3 {
   font-weight: 100;
   font-size: 30px;
-  color: white;
+  color: #30d94c;
+  /*color: white;*/
   text-align: center;
 }
 .divider {
   margin: 100px 0;
 }
 .footer {
-  padding: 175px;
+  padding: 100px;
   background-color: rgba(41,43,51,0.9);
 }
 .companies {
