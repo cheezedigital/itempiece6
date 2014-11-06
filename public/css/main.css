@@ -16,7 +16,8 @@ video { display: block; }
   /*background-color: rgba(41,43,51,0.9);*/
   background-color: rgba(0,0,0,0);
   /*border-color: rgba(255,255,255,0.25);*/
-  border-color: #30d94c;
+  /*border-color: #30d94c;*/
+  border: none;
 }
 
 #child1 {
