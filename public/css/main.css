@@ -22,7 +22,8 @@ video { display: block; }
   font-size: 19px;
   border-radius: 5px;
   margin-right: 10px;
-  color: white;
+  color: #30d94c;
+  border-color: #30d94c;
   background-color: rgba(0,0,0,0);
 }
 #child2 {
@@ -30,7 +31,8 @@ video { display: block; }
   font-size: 19px;
   border-radius: 5px;
   margin-right: 10px;
-  color: white;
+  color: #30d94c;
+  border-color: #30d94c;
   background-color: rgba(0,0,0,0);
 }
 
@@ -58,7 +60,7 @@ h3 {
 }
 .footer {
   padding: 175px;
-  background-color: #000408;
+  background-color: rgba(41,43,51,0.9);
 }
 .companies {
   background-color: #303438;
