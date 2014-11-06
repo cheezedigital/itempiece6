@@ -65,7 +65,8 @@ h3 {
 }
 .footer {
   padding: 100px;
-  background-color: rgba(41,43,51,0.9);
+  /*background-color: rgba(41,43,51,0.9);*/
+  background-color: #1e1e1e;
 }
 .companies {
   background-color: #303438;
