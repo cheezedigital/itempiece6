@@ -126,3 +126,10 @@ h3 {
   margin-right: 0;
   margin-left: 0;
 }
+.started {
+  color: #30d94c;
+  border: solid 2px;
+  margin-top: 1px;
+  border-radius: 25px;
+  padding-left: 10px;
+}
