@@ -11,3 +11,7 @@ end
 get '/library' do
   erb :library
 end
+
+get '/work' do
+  erb :work
+end
