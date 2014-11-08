@@ -81,8 +81,8 @@ h3 {
 .divider {
   margin: 100px 0;
 }
-.footer {
-  padding: 100px;
+#row {
+  padding: 175px;
   /*background-color: rgba(41,43,51,0.9);*/
   background-color: #1e1e1e;
 }
@@ -137,7 +137,6 @@ h3 {
 .started {
   color: #30d94c;
   border: solid 1px;
-  margin-top: 30px;
   margin-bottom: 5px;
   border-radius: 5px;
   padding-left: 10px;
@@ -152,4 +151,13 @@ ul  {
   font-size: 15px;
   color: #30d94c;
   text-decoration: none;
+}
+.social-icon-button {
+  font-size: 50px;
+  color: #30d94c;
+  border-radius: 30px;
+}
+.col-lg-12 {
+  /*margin-left: 85px;*/
+  position: center;
 }
