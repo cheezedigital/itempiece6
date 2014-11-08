@@ -78,6 +78,10 @@ h3 {
   /*color: white;*/
   text-align: center;
 }
+h2  {
+  text-align: center;
+  font-color: #1e1e1e;
+}
 .divider {
   margin: 100px 0;
 }
