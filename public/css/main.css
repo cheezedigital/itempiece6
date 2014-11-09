@@ -163,9 +163,9 @@ ul  {
   color: #30d94c;
   border-radius: 30px;
 }
-.col-lg-12 {
-  /*margin-left: 85px;*/
-  position: center;
+.col-md-12 {
+  margin-left: 100px;
+  /*position: center;*/
 }
 
 /*About*/
