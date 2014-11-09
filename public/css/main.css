@@ -140,18 +140,7 @@ h2  {
   margin-right: 0;
   margin-left: 0;
 }
-.started {
-  color: #30d94c;
-  border: solid 1px;
-  margin-bottom: 5px;
-  border-radius: 5px;
-  padding-left: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  width: 200px;
-  text-align: center;
-  text-decoration: none;
-}
+
 ul  {
   list-style-type: none;
   font-size: 15px;
@@ -164,8 +153,7 @@ ul  {
   border-radius: 30px;
 }
 .col-md-12 {
-  margin-left: 100px;
-  /*position: center;*/
+  margin-left: 115px;
 }
 
 /*About*/
@@ -175,4 +163,9 @@ ul  {
   margin-top: 40px;
   font-family: Helvetica;
   font-weight: bold;
+}
+.copy {
+  text-align: center;
+  color: #4e4e4e;
+  margin: 15px;
 }
