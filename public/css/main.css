@@ -3,7 +3,7 @@ video {
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
-  width: auto;
+  width: 100%;
   height: auto;
   z-index: -100;
   background: url(sample.mp4) no-repeat;
@@ -164,4 +164,13 @@ ul  {
 .col-lg-12 {
   /*margin-left: 85px;*/
   position: center;
+}
+
+/*About*/
+
+.about1 {
+  font-size: 60px;
+  margin-top: 40px;
+  font-family: Helvetica;
+  font-weight: bold;
 }
