@@ -59,7 +59,7 @@ video { display: block; }
 
 .section {
   position: absolute;
-  top: 0;
+  top: 0;*/
   margin:0!important;
   padding:0!important;
 }
@@ -159,10 +159,11 @@ ul  {
 /*About*/
 
 .about1 {
-  font-size: 60px;
+  font-size: 36px;
   margin-top: 40px;
   font-family: Helvetica;
   font-weight: bold;
+  text-transform: uppercase;
 }
 .copy {
   text-align: center;
