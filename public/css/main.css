@@ -65,8 +65,8 @@ video { display: block; }
   padding:0!important;
 }
 #floater {
-  margin-top: 40% 0;
-  margin-left: 50% 0;
+  margin-top: 23% 0;
+  margin-left: 39% 0;
 }
 h1 {
   font-family: "PT Sans Narrow";
@@ -162,7 +162,7 @@ ul  {
   margin-top: 40px;
   font-family: Ubuntu Mono;
   font-weight: bold;
-  color: #FF8300;
+  color: #30d94c;
 }
 .copy {
   text-align: center;
@@ -171,4 +171,11 @@ ul  {
 }
 .divider {
   margin: 100px 0;
+}
+a:hover {
+  text-decoration: none;
+  color: #30d94c;
+}
+.article {
+  font-family: 'Ubuntu Mono', 'Monaco', Monospace;
 }
