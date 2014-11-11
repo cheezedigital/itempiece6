@@ -58,7 +58,8 @@ video { display: block; }
 }
 
 .section {
-  position: absolute;
+  /*position: absolute;*/
+  text-align: center;
   top: 0;*/
   margin:0!important;
   padding:0!important;
@@ -84,9 +85,7 @@ h2  {
   text-align: center;
   font-color: #1e1e1e;
 }
-.divider {
-  margin: 100px 0;
-}
+
 #row {
   padding: 175px;
   /*background-color: rgba(41,43,51,0.9);*/
@@ -161,12 +160,15 @@ ul  {
 .about1 {
   font-size: 36px;
   margin-top: 40px;
-  font-family: Helvetica;
+  font-family: Ubuntu Mono;
   font-weight: bold;
-  text-transform: uppercase;
+  color: #FF8300;
 }
 .copy {
   text-align: center;
   color: #4e4e4e;
   margin: 15px;
+}
+.divider {
+  margin: 100px 0;
 }
