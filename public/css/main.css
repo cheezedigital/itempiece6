@@ -176,4 +176,14 @@ a:hover {
 }
 .article {
   font-family: 'Ubuntu Mono', 'Monaco', Monospace;
+  font-size: 11px;
+}
+.container1 {
+  width: 960px;
+  margin: 0 auto;
+  padding: 40px;
+}
+.holler {
+  padding-top: 10px;
+  font-size: 28px;
 }
