@@ -57,14 +57,11 @@ video { display: block; }
   background-color: rgba(0,0,0,0);
 }
 
-#floater {
-  margin-top: 23% 0;
-  margin-left: 39% 0;
-}
 .section {
   text-align: center;
-  margin:0!important;
-  padding:0!important;
+  /*margin:0!important;*/
+  /*padding:0!important;*/
+
 }
 h1 {
   font-family: "PT Sans Narrow";
@@ -189,5 +186,6 @@ a:hover {
 }
 .holler1 {
   padding-top: 10px;
+  padding-bottom: 8px;
   font-size: 20px;
 }
