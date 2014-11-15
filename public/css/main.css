@@ -57,10 +57,10 @@ video { display: block; }
   background-color: rgba(0,0,0,0);
 }
 
-.section {
+/*.section {
   text-align: center;
   /*margin:0!important;*/
-  /*padding:0!important;*/
+  /*padding:0!important;*/*/
 
 }
 h1 {
@@ -82,7 +82,7 @@ h2  {
 }
 
 #row {
-  padding: 175px;
+  padding: 100px;
   /*background-color: rgba(41,43,51,0.9);*/
   background-color: #1e1e1e;
 }
@@ -103,8 +103,8 @@ h2  {
   background-color: #4f4f4f;
 }
 
-.section h1 {margin:0;padding:0;}
-.section h3 {margin:0;padding:0;}
+/*.section h1 {margin:0;padding:0;}
+.section h3 {margin:0;padding:0;}*/
 
 .middle {
   padding: 40px;
@@ -162,7 +162,8 @@ ul  {
 .copy {
   text-align: center;
   color: #4e4e4e;
-  margin: 15px;
+  padding-top: inherit;
+
 }
 .divider {
   margin: 100px 0;
