@@ -191,3 +191,10 @@ a:hover {
   padding-bottom: 8px;
   font-size: 20px;
 }
+#local {
+  width: 960px;
+  margin: 0 auto;
+  padding: 40px;
+  font-family: 'Ubuntu Mono', 'Monaco', Monospace;
+  font-size: 11px;
+}
