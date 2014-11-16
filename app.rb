@@ -16,6 +16,10 @@ get '/local' do
   erb :local
 end
 
+get '/github' do
+  erb :github
+end
+
 get '/work' do
   erb :work
 end
