@@ -198,3 +198,6 @@ a:hover {
   font-family: 'Ubuntu Mono', 'Monaco', Monospace;
   font-size: 11px;
 }
+body {
+  background-color: #F8F8FF;
+}
