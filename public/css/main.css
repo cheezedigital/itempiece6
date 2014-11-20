@@ -207,3 +207,8 @@ hr {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
+.library {
+  /*padding-top: 10px;*/
+  text-transform: uppercase;
+  font-weight: bold;
+}
