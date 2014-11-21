@@ -29,6 +29,7 @@ video { display: block; }
   border-color: #30d94c;
   background-color: rgba(0,0,0,0);
 }
+
 #child2 {
   font-family: "PT Sans Narrow";
   font-size: 19px;
@@ -38,6 +39,7 @@ video { display: block; }
   border-color: #30d94c;
   background-color: rgba(0,0,0,0);
 }
+
 #child3 {
   font-family: "PT Sans Narrow";
   font-size: 19px;
@@ -47,6 +49,7 @@ video { display: block; }
   border-color: #30d94c;
   background-color: rgba(0,0,0,0);
 }
+
 #child4 {
   font-family: "PT Sans Narrow";
   font-size: 19px;
@@ -57,12 +60,6 @@ video { display: block; }
   background-color: rgba(0,0,0,0);
 }
 
-/*.section {
-  text-align: center;
-  /*margin:0!important;*/
-  /*padding:0!important;*/*/
-
-}
 h1 {
   font-family: "PT Sans Narrow";
   font-weight: 300;
@@ -70,12 +67,14 @@ h1 {
   font-size: 46px;
   color: #30d94c;
 }
+
 h3 {
   font-weight: 100;
   font-size: 30px;
   color: #30d94c;
   text-align: center;
 }
+
 h2  {
   text-align: center;
   font-color: #1e1e1e;
@@ -86,39 +85,42 @@ h2  {
   /*background-color: rgba(41,43,51,0.9);*/
   background-color: #1e1e1e;
 }
+
 .companies {
   background-color: #303438;
   padding: 40px;
 }
+
 .row {
   padding: 15px;
 }
+
 .col-md-3 {
   diplay: inline-block;
 }
+
 .wrapper {
   position: relative;
 }
+
 .middle {
   background-color: #4f4f4f;
-}
-
-/*.section h1 {margin:0;padding:0;}
-.section h3 {margin:0;padding:0;}*/
-
-.middle {
   padding: 40px;
 }
+
 #atom {
   margin-top: 28px;
 }
+
 #heroku {
   margin-top: 10px;
 }
+
 .tools {
   font-weight: 200;
   font-family: "PT Sans Narrow";
 }
+
 .navigation-wrapper {
   width: 100%;
   padding: 32px;
@@ -127,6 +129,7 @@ h2  {
   font-weight: 700;
   text-transform: uppercase;
 }
+
 .top-navigation {
   display: inline;
   float: left;
@@ -141,11 +144,13 @@ ul  {
   color: #30d94c;
   text-decoration: none;
 }
+
 .social-icon-button {
   font-size: 50px;
   color: #30d94c;
   border-radius: 30px;
 }
+
 .col-md-12 {
   margin-left: 115px;
 }
@@ -169,28 +174,34 @@ ul  {
 .divider {
   margin: 100px 0;
 }
+
 a:hover {
   text-decoration: none;
   color: #30d94c;
 }
+
 .article {
   font-family: 'Ubuntu Mono', 'Monaco', Monospace;
   font-size: 11px;
 }
+
 .container1 {
   width: 960px;
   margin: 0 auto;
   padding: 40px;
 }
+
 .holler {
   padding-top: 10px;
   font-size: 28px;
 }
+
 .holler1 {
   padding-top: 10px;
   padding-bottom: 8px;
   font-size: 20px;
 }
+
 #local {
   width: 960px;
   margin: 0 auto;
@@ -198,19 +209,24 @@ a:hover {
   font-family: 'Ubuntu Mono', 'Monaco', Monospace;
   font-size: 11px;
 }
+
 body {
   background-color: #F8F8FF;
 }
+
 hr {
   border-width: 1px;
   display: block;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
+  border-color: #0CF;
 }
+
 .library {
   text-transform: uppercase;
   font-weight: bold;
 }
+
 code {
   padding: 0px 5px 2px;
   border-radius: 3px;

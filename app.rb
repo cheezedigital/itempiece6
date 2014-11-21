@@ -23,3 +23,7 @@ end
 get '/work' do
   erb :work
 end
+
+get '/heroku' do
+  erb :heroku
+end
