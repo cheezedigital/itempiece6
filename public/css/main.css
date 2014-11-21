@@ -177,7 +177,6 @@ ul  {
 
 a:hover {
   text-decoration: none;
-  color: #30d94c;
 }
 
 .article {
@@ -230,6 +229,14 @@ hr {
 code {
   padding: 0px 5px 2px;
   border-radius: 3px;
-  border: 1px solid #DDD;
+  border: 1px solid;
   color: #0CF;
+}
+
+/* heroku */
+#local1 {
+  border-radius: 0 !important;
+  background-color: #3C3E45;
+  border: #1e1e1e;
+  padding: 9px;
 }
