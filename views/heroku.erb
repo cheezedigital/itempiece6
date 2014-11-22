@@ -30,5 +30,14 @@
         for instructional purposes, clone a repo. <code>git clone https://github.com/heroku/ruby-getting-started.git</code>.
         change directories into the freshly cloned repo like this <code>cd ruby-getting-started</code>.
       </p>
+      <p>
+        awww shit. check it. in the terminal, type <code>heroku create</code>, and since we added an ssh key, we
+        can leave off the --http-git. the master at heroku creates a random name for your app, though it can be changed.
+        now, deploy your code <code>git push heroku master</code> and then <code>heroku open</code>. in big applications, tailing
+        the heroku logs allows one to see errors, and to fix. takes awhile getting used to. well, for me it did. good work. we've pushed
+        a web application to cloud servers. if i'm not mistaken, a cloud is owned by a company and as a user, we're buying server space
+        to host our application. i like to think of a server as an ole 1970ish file cabinet resembeling smoke like envelopes containing files inside.
+        that's what a server is to me. we make http requests and grab those files from the servers.
+      </p>
     </div>
   </div>
