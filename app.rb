@@ -27,3 +27,7 @@ end
 get '/heroku' do
   erb :heroku
 end
+
+get '/ruby' do
+  erb :ruby
+end
