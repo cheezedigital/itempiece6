@@ -19,7 +19,7 @@
       <p>
         in the terminal, type <code>$ heroku login </code>, and login using the vituals used when logging into heroku.
         email, and password, right? either an ssh key has already been established, or a new one needs to be created.
-        the <a href="https.www.heroku.com" target="_blank">99 nuggests</a> website has detailed instructions, as i've set
+        the <a href="https://www.heroku.com/" target="_blank" style="color: #0CF">99 nuggests</a> website has detailed instructions, as i've set
         up this website, just reminding either you or me to expedite if needing to configure another machine. ok, so, to verify
         keys are set up, type <code>heroku keys</code>, and if yer key isn't there, add it manually <code>heroku keys:add</code>.
       </p>
@@ -41,8 +41,14 @@
       </p>
       <h5>heroku remote</h5>
       <p>
-        i have a few machines confirguerd, and a problem i encounter, or have in the past is simply not having the heroku references to a git repo.
-        verify the remote version in the git configuration is properly set by typing <code>git remote -v</code> in the terminal.
+        i have a few machines configured, and a problem i encounter, or have in the past is simply not having the heroku references to a git repo.
+        verify the remote version is in the git configuration by typing <code>git remote -v</code> in the terminal. i might need to associate
+        a git repo with heroku, and do make this happen, type <code>heroku git:remote -a falling-wind-1624</code> where falling-wind-1624 should
+        be replaced with your heroku application name. after this, push this joint <code>git push heroku master</code>
+      </p>
+      <p>
+        furthermore, about raps it up for this installation. in the meantime, if finding trouble, or i actually made a mistake with instructions,
+        please reach out. <a href="mailto:justinveirs@gmail.com" style="color: #0CF">hit me up</a>
       </p>
     </div>
   </div>
