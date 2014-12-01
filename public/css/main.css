@@ -11,7 +11,7 @@
 }*/
 
 /*video { display: block; }*/
-img {
+/*body {
   right: 0;
   bottom: 0;
   min-width: 100%;
@@ -21,8 +21,15 @@ img {
   z-index: -100;
   background-image: url('images/justin.jpg') no-repeat;
   background-size: 100%;
-}
+}*/
 
+html {
+  background-image: url('images/justin.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 .navbar-inverse {
   /*background-color: rgba(41,43,51,0.9);*/
