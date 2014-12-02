@@ -85,7 +85,9 @@ h2  {
   diplay: inline-block;
 }
 .responsive {
+  background-image: url('images/justin.jpg');
   width: 100%;
+
 }
 
 .middle {
@@ -141,6 +143,17 @@ ul  {
 }
 
 /*About*/
+
+#about {
+  padding: 25px 150px 0 150px;
+}
+
+.crept {
+  font-size: 40px;
+  color: #FFDB4D;
+  font-weight: bold;
+  text-align: center;
+}
 
 .about1 {
   font-size: 36px;

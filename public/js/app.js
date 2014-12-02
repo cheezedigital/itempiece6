@@ -1,4 +1,3 @@
-$(function () {
-  $.backstretch("images/justin.jpg");
-  $'background-repeat': 'no-repeat'});
-});
+// $(function () {
+//   $.backstretch("images/justin.jpg");
+// });
