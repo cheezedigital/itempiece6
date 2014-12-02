@@ -250,24 +250,30 @@ code {
 }
 
 /* work */
-#item1 {
 
+#item1 {
+  width: 100%;
+  height: auto;
 }
 
 #item2 {
-
+  width: 100%;
+  height: auto;
 }
 
 #item3 {
-
+  width: 100%;
+  height: auto;
 }
 
 #item4 {
-
+  width: 100%;
+  height: auto;
 }
 
 #item5 {
-  
+  width: 100%;
+  height: auto;
 }
 
 /* ruby */
