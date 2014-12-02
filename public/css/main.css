@@ -145,7 +145,13 @@ ul  {
 /*About*/
 
 #about {
-  padding: 25px 150px 0 150px;
+  max-width: 640px;
+  margin-right: auto;
+  margin-left: auto;
+  font-weight: 400;
+  line-height: 3rem;
+  font-family: "PT Sans Narrow";
+  font-size: 20px;
 }
 
 .crept {
@@ -203,8 +209,10 @@ a:hover {
 #local {
   margin: 0 auto;
   padding: 40px;
-  font-family: 'Ubuntu Mono', 'Monaco', Monospace;
-  font-size: 11px;
+  font-weight: 400;
+  line-height: 3rem;
+  font-family: "PT Sans Narrow";
+  font-size: 15px;
 }
 
 body {
@@ -222,6 +230,7 @@ hr {
 .library {
   text-transform: uppercase;
   font-weight: bold;
+  margin-top: 4px;
 }
 
 code {
@@ -229,6 +238,7 @@ code {
   border-radius: 3px;
   border: 1px solid;
   color: #0CF;
+  font-weight: 300;
 }
 
 /* heroku */
@@ -240,3 +250,31 @@ code {
 }
 
 /* work */
+#item1 {
+
+}
+
+#item2 {
+
+}
+
+#item3 {
+
+}
+
+#item4 {
+
+}
+
+#item5 {
+  
+}
+
+/* ruby */
+
+.program1 {
+  font-weight: 400;
+  line-height: 3rem;
+  font-family: "PT Sans Narrow";
+  font-size: 20px;
+}
