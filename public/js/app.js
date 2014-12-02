@@ -1,1 +1,3 @@
-$.backstretch("images/justin.jpg");
+$(function () {
+  $.backstretch("images/justin.jpg");
+});
