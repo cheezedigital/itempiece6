@@ -156,7 +156,7 @@ ul  {
 
 .crept {
   font-size: 40px;
-  color: #FFDB4D;
+  color: #0cc;
   font-weight: bold;
   text-align: center;
 }
@@ -185,8 +185,11 @@ a:hover {
 }
 
 .article {
-  font-family: 'Ubuntu Mono', 'Monaco', Monospace;
-  font-size: 14px;
+  font-family: "PT Sans Narrow";
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 3rem;
+  
 }
 
 /*.container1 {
@@ -216,11 +219,13 @@ a:hover {
 }
 
 body {
-  background-color: #F8F8FF;
+  /*background-color: #F8F8FF;*/
+  background-color: #3C3E45;
+  color: #F8F8FF;
 }
 
 hr {
-  border-width: 1px;
+  border-width: 2px;
   display: block;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
