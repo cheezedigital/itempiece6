@@ -217,7 +217,7 @@ a:hover {
   font-weight: 400;
   line-height: 3rem;
   font-family: "PT Sans Narrow";
-  font-size: 15px;
+  font-size: 20px;
 }
 
 body {
@@ -247,8 +247,20 @@ code {
   color: #0CF;
   font-weight: 300;
 }
-
+/* github */
+.github {
+  font-family: "PT Sans Narrow";
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 3rem;
+}
 /* heroku */
+.heroku {
+  font-family: "PT Sans Narrow";
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 3rem;
+}
 #local1 {
   border-radius: 0 !important;
   background-color: #3C3E45;
@@ -265,7 +277,6 @@ code {
   width: 100%;
   height: auto;
   position: relative;
-
 }
 
 #item2 {
