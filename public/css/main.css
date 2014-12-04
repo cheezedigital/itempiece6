@@ -269,11 +269,13 @@ code {
   width: 100%;
   height: auto;
   position: relative;
+  transition: opacity 250ms ease 0s;
 }
 
 #item3 {
   width: 100%;
   height: auto;
+  position: relative;
 }
 
 #item4 {
