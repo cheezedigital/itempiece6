@@ -275,31 +275,31 @@ code {
 
 #item1 {
   width: 100%;
-  height: auto;
+  height: 425px;
   position: relative;
 }
 
 #item2 {
   width: 100%;
-  height: auto;
+  height: 425px;
   position: relative;
   transition: opacity 250ms ease 0s;
 }
 
 #item3 {
   width: 100%;
-  height: auto;
+  height: 425px;
   position: relative;
 }
 
 #item4 {
   width: 100%;
-  height: auto;
+  height: 325px;
 }
 
 #item5 {
   width: 100%;
-  height: auto;
+  height: 325px;
 }
 
 /* ruby */
