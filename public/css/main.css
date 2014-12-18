@@ -103,10 +103,12 @@ h2  {
   margin-top: 10px;
 }
 
-.tools {
+#tools {
   font-weight: 200;
   font-family: "PT Sans Narrow";
   color: #1e1e1e;
+  font-size: 30px;
+  text-align: center;
 }
 
 .navigation-wrapper {
