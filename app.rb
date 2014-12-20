@@ -32,6 +32,6 @@ get '/ruby' do
   erb :ruby
 end
 
-get '/index' do
+get '/home' do
   erb :index
 end
