@@ -199,6 +199,7 @@ a:hover {
 }
 
 .article {
+  padding-top: 100px;
   font-family: "PT Sans Narrow";
   font-size: 20px;
   font-weight: 300;
@@ -261,6 +262,7 @@ code {
 }
 /* github */
 .github {
+  padding-top: 100px;
   font-family: "PT Sans Narrow";
   font-size: 20px;
   font-weight: 300;
