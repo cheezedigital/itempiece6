@@ -31,3 +31,7 @@ end
 get '/ruby' do
   erb :ruby
 end
+
+get '/index' do
+  erb :index
+end

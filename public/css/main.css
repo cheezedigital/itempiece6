@@ -45,6 +45,15 @@
   border-color: #30d94c;
   background-color: rgba(0,0,0,0);
 }
+#child5 {
+  font-family: "PT Sans Narrow";
+  font-size: 19px;
+  border-radius: 5px;
+  margin-left: 10px;
+  color: #30d94c;
+  border-color: #30d94c;
+  background-color: rgba(0,0,0,0);
+}
 
 h1 {
   font-family: "PT Sans Narrow";
@@ -148,6 +157,7 @@ ul  {
 /*About*/
 
 #about {
+  padding-top: 100px;
   max-width: 640px;
   margin-right: auto;
   margin-left: auto;
