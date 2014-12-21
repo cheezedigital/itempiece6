@@ -81,6 +81,10 @@ h2  {
   background-color: #1e1e1e;
 }
 
+#row1 {
+  display: relative;
+}
+
 .companies {
   background-color: #303438;
   padding: 40px;
