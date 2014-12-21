@@ -229,8 +229,8 @@ a:hover {
 }
 
 #local {
+  padding-top: 100px;
   margin: 0 auto;
-  padding: 40px;
   font-weight: 400;
   line-height: 3rem;
   font-family: "PT Sans Narrow";
