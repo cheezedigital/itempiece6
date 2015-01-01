@@ -17,3 +17,28 @@
     </div>
   </div>
 </nav>
+<div class="container" id="overtone">
+  <h2>holy fuck!</h2>
+  <p>
+    hacking on music projects really fascinates me. it's actually taken me a really long to even get a <a href="http://monome.org/">monome</a> to function,
+    but with some patience and building muscule memory working on other projects; i'm able to install, and learn how to write music with code.
+  </p>
+  <h2>leiningen</h2>
+  <p>
+    i've finally got <a href="http://overtone.github.io/" target="_blank">overtone</a> installed; i honestly can't believe it. thanks homebrew.
+    so, the first thing we need to do is to brew up some libraries. in the terminal, i installed leiningen by typing <code>brew install leiningen</code>
+    i typed lein after the install, which displays a list in the terminal of the available tasks. i next step complete was making a new tutorial by typing in the
+    terminal the following <code>lein new tutorial</code>. from there i changed directories into the newly created directory, or in this case: tutorial.
+    this will create a new project directory structure skeleton within code is placed.
+  </p>
+  <h2>pull in dependencies</h2>
+  <p>
+    overtone relies on a number of dependencies from external resources, so instead of doing massive amount of downloading, leningen makes it easy.
+    after changing directories into tutorial and opening the project with your editor, head into file <code>project.clj</code> and write the following piece:
+    <div class="lein">
+      (<span style="color: #a71d5d">defproject</span> tutorial <span style="color: #df5000">"1.0"</span><br />
+      <span style="color: #0086b3">:dependencies</span> [ [org.clojure/clojure <span style="color: #df5000">"1.5.1"</span><br />
+      [overtone <span style="color: #df5000">"0.9.1"</span>] ])
+    <div>
+  </p>
+</div>
