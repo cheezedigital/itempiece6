@@ -338,12 +338,7 @@ code {
   font-weight: 300;
   line-height: 3rem;
 }
-.lein {
-  width: 600px;
-  height: 100px;
-  padding: 16px;
-  padding-bottom: 16px;
-  line-height: 1.25;
-  background-color: #474545;
-  border-radius: 3px;
+
+.lein2 {
+  padding-top: 30px;
 }

@@ -35,11 +35,14 @@
   <p>
     overtone relies on a number of dependencies from external resources, so instead of doing massive amount of downloading, leningen makes it easy.
     after changing directories into tutorial and opening the project with your editor, head into file <code>project.clj</code> and write the following piece:
-    <div class="lein">
+  </p>
+  <p>
       (<span style="color: #a71d5d">defproject</span> tutorial <span style="color: #df5000">"1.0"</span><br />
       <span style="color: #0086b3">:dependencies</span> [ [org.clojure/clojure <span style="color: #df5000">"1.5.1"</span><br />
       [overtone <span style="color: #df5000">"0.9.1"</span>] ])
-    <div>
+  </p>
+  <p>
     now back in the terminal type <code>lein deps</code> which is now pulling in dependencies. in terminal a bunch of goodness is happening.
+    next, start the server by typing in <code>lein repl</code>
   </p>
 </div>
