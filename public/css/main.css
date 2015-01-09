@@ -95,7 +95,8 @@ h2  {
 }
 
 .col-md-3 {
-  diplay: inline-block;
+  text-align: center;
+  /*diplay: inline-block;*/
 }
 .responsive {
   background-image: url('images/justin.jpg');
