@@ -82,7 +82,7 @@ h2  {
 }
 
 #row1 {
-  display: relative;
+  text-align: center;
 }
 
 .companies {
@@ -96,8 +96,8 @@ h2  {
 
 .col-md-3 {
   text-align: center;
-  /*diplay: inline-block;*/
 }
+
 .responsive {
   background-image: url('images/justin.jpg');
   width: 100%;
