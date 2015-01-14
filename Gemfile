@@ -6,3 +6,5 @@ gem 'font-awesome-sass'
 gem 'thin'
 gem 'heroku'
 gem 'bootstrap'
+
+gem 'minitest'
