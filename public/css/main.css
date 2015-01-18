@@ -344,8 +344,12 @@ code {
   padding-top: 40px;
   padding-bottom: 40px;
   text-align: center;
-  color: #1e1e1e;
+  color: #30d94c;
 }
 .lein2 {
   padding-top: 30px;
+}
+.col-md-6 img {
+  height: 400px;
+  width: 500px;
 }
