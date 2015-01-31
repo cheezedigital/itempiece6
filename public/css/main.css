@@ -121,8 +121,7 @@ h2  {
   font-family: "PT Sans Narrow";
   color: #1e1e1e;
   font-size: 30px;
-  margin-right: auto;
-  margin-left: auto;
+  text-align: center;
 }
 
 .navigation-wrapper {
