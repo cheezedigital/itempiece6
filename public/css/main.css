@@ -354,3 +354,12 @@ code {
   height: 400px;
   width: 500px;
 }
+
+
+/* Footer
+=============================
+*/
+
+.footer-list ul {
+  display: inline-block;
+}
